@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>car80</filename>
+  <path>C:\Users\joche\Desktop\JAMK\Internet of Things\CarObjectDetection\Images\car80.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>824</width>
+    <height>457</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323</xmin>
+      <ymin>121</ymin>
+      <xmax>733</xmax>
+      <ymax>429</ymax>
+    </bndbox>
+  </object>
+</annotation>
