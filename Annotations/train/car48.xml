@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>car48</filename>
+  <path>C:\Users\joche\Desktop\JAMK\IoT\CarObjectDetection\Images\train\car48.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>113</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>15</ymin>
+      <xmax>98</xmax>
+      <ymax>60</ymax>
+    </bndbox>
+  </object>
+</annotation>

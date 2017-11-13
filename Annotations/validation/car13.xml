@@ -1,0 +1,26 @@
+<annotation>
+  <folder>validation</folder>
+  <filename>car13</filename>
+  <path>C:\Users\joche\Desktop\JAMK\IoT\CarObjectDetection\Images\validation\car13.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>200</width>
+    <height>113</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>16</ymin>
+      <xmax>172</xmax>
+      <ymax>93</ymax>
+    </bndbox>
+  </object>
+</annotation>
